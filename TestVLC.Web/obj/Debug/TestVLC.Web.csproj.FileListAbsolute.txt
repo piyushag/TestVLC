@@ -1,0 +1,14 @@
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC.Web\bin\TestVLC.Web.dll
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC.Web\bin\TestVLC.Web.pdb
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC.Web\bin\System.Web.Silverlight.dll
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC.Web\obj\Debug\TestVLC.Web.dll
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC.Web\obj\Debug\TestVLC.Web.pdb

@@ -1,0 +1,12 @@
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC\Bin\Debug\AppManifest.xaml
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC\Bin\Debug\TestVLC.dll
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC\Bin\Debug\TestVLC.pdb
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC\Bin\Debug\TestVLC.xap
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC\Bin\Debug\TestPage.html
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC\obj\Debug\App.g.cs
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC\obj\Debug\Page.g.cs
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC\obj\Debug\TestVLC.g.resources
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC\obj\Debug\TestVLC.dll
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC\obj\Debug\TestVLC.pdb
+C:\Users\Piyush\Documents\Visual Studio 2008\Projects\TestVLC\TestVLC\obj\Debug\XapCacheFile.xml
